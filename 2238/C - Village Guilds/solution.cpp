@@ -1,0 +1,132 @@
+/**
+ *    author:  Sanjeev Kumar Gupta
+ *    created: 28.06.2026 20:23:25
+**/
+ 
+#include <bits/stdc++.h>
+ 
+// --- For Debugging ---
+#ifdef LOCAL
+#include "algo/debug.h"
+#else
+#define debug(...) 42
+#endif
+// -------------------
+ 
+using namespace std;
+ 
+#define ll long long int
+#define ld long double
+#define endl '
+'
+const int mod = 1e9+7;
+// --- Type Definitions ---
+typedef vector<ll> vi;
+typedef vector<vi> vvi;
+typedef pair<ll, ll> ii;
+typedef vector<ii> vp;
+ 
+// --- Shorthand Macros ---
+#define all(v) v.begin(), v.end()
+#define srt(v) sort(all(v))
+#define pb push_back
+ 
+// --- I/O Helper Functions ---
+void vin(vi &a, ll n) {
+    a.resize(n);
+    for (ll i = 0; i < n; i++) cin >> a[i];
+}
+ 
+void pin(const vi &a) {
+    for (size_t i = 0; i < a.size(); i++) {
+        cout << a[i] << (i == a.size() - 1 ? "" : " ");
+    }
+    cout << endl;
+}
+ 
+ll gcd(ll a, ll b){
+    a=llabs(a);
+    b=llabs(b);
+    while(b!=0){
+        ll r = a%b;
+        a=b;
+        b=r;
+    }
+    return a;
+}
+ 
+class Edge{
+    public:
+    int src;
+    int dest;
+    Edge(int u,int v){
+        src=u;
+        dest=v;
+    }
+};
+ 
+class Graph{
+    public:
+    int V;
+    vector<vector<Edge>> adj;
+    ll ans;
+    Graph(int V){
+        this->V=V;
+        adj.resize(V);
+        ans=0;
+    }
+    void addEdge(int u,int v){
+        adj[u].push_back(Edge(u,v));
+        adj[v].push_back(Edge(v,u));
+    }
+ 
+    ll dfs(ll u,ll p){
+        ll md1=-1,md2=-1;
+        for(auto e:adj[u]){
+            ll v=e.dest;
+            if(v==p) continue;
+            ll d=dfs(v,u);
+            if(d>md1){
+                md2=md1;
+                md1=d;
+            } else if(d>md2){
+                md2=d;
+            }
+        }
+        if(md2!=-1){
+            ans+=(md2+1);
+        }
+        return md1+1;
+    }
+ 
+};
+ 
+// --- Main Solve Function ---
+void solve() {
+    ll n;
+    cin>>n;
+    Graph g(n+1);
+    for(int i=2;i<=n;i++){
+        ll v;
+        cin>>v;
+        g.addEdge(v,i);
+    }
+    g.ans=n;
+    g.dfs(1,0);
+    cout<<g.ans<<endl;
+    
+}
+ 
+// --- Main Function ---
+int32_t main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+ 
+    int t = 1;
+    cin >> t;
+    while (t--) {
+        solve();
+    }
+ 
+    return 0;
+}
