@@ -1,0 +1,21 @@
+<h2><a href="https://codeforces.com/contest/1991/problem/B" target="_blank" rel="noopener noreferrer">1991B — AND Reconstruction</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1991B](https://codeforces.com/contest/1991/problem/B) |
+
+## Topics
+`bitmasks` `constructive algorithms` `greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. AND Reconstruction</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given an array $$$b$$$ of $$$n - 1$$$ integers.</p><p>An array $$$a$$$ of $$$n$$$ integers is called <span class="tex-font-style-it">good</span> if $$$b_i = a_i \, \& \, a_{i + 1}$$$ for $$$1 \le i \le n-1$$$, where $$$\&$$$ denotes the <a href="https://en.wikipedia.org/wiki/Bitwise_operation#AND">bitwise AND operator</a>.</p><p>Construct a good array, or report that no good arrays exist.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains a single integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases. The description of test cases follows.</p><p>The first line of each test case contains a single integer $$$n$$$ ($$$2 \le n \le 10^5$$$) — the length of the array $$$a$$$.</p><p>The second line of each test case contains $$$n - 1$$$ integers $$$b_1, b_2, \ldots, b_{n - 1}$$$ ($$$0 \le b_i  \lt  2^{30}$$$) — the elements of the array $$$b$$$.</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single integer $$$-1$$$ if no good arrays exist. </p><p>Otherwise, output $$$n$$$ space-separated integers $$$a_1, a_2, \ldots, a_n$$$ ($$$0 \le a_i  \lt  2^{30}$$$) — the elements of a good array $$$a$$$.</p><p>If there are multiple solutions, you may output any of them.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0024168120584228825" id="id0000017921126696585077" class="input-output-copier">Copy</div></div><pre id="id0024168120584228825"><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">2</div><div class="test-example-line test-example-line-odd test-example-line-1">1</div><div class="test-example-line test-example-line-even test-example-line-2">3</div><div class="test-example-line test-example-line-even test-example-line-2">2 0</div><div class="test-example-line test-example-line-odd test-example-line-3">4</div><div class="test-example-line test-example-line-odd test-example-line-3">1 2 3</div><div class="test-example-line test-example-line-even test-example-line-4">5</div><div class="test-example-line test-example-line-even test-example-line-4">3 5 4 2</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0016369659815409598" id="id007002648891199439" class="input-output-copier">Copy</div></div><pre id="id0016369659815409598">5 3
+3 2 1
+-1
+3 7 5 6 3
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, $$$b = [1]$$$. A possible good array is $$$a=[5, 3]$$$, because $$$a_1 \, \& \, a_2 = 5 \, \& \, 3 = 1 = b_1$$$.</p><p>In the second test case, $$$b = [2, 0]$$$. A possible good array is $$$a=[3, 2, 1]$$$, because $$$a_1 \, \& \, a_2 = 3 \, \& \, 2 = 2 = b_1$$$ and $$$a_2 \, \& \, a_3 = 2 \, \& \, 1 = 0 = b_2$$$.</p><p>In the third test case, $$$b = [1, 2, 3]$$$. It can be shown that no good arrays exist, so the output is $$$-1$$$.</p><p>In the fourth test case, $$$b = [3, 5, 4, 2]$$$. A possible good array is $$$a=[3, 7, 5, 6, 3]$$$.</p></div>
