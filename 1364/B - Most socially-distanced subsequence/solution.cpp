@@ -67,11 +67,6 @@ void solve() {
     vector<ll> v(n);
     for(auto &it:v) cin>>it;
     ll l=0,r=1;
-    if(n<=2){
-      cout<<2<<endl;
-      cout<<v[0]<<" "<<v[1]<<endl;
-      return;  
-    }
     vector<ll> sub;
     sub.push_back(v[l]);
     while(r<n){
