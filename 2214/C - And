@@ -1,17 +1,67 @@
-<h2><a href="https://codeforces.com/contest/2214/problem/C" target="_blank" rel="noopener noreferrer">2214C — And?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | Unrated |
-| **Language** | C++23 (GCC 14-64, msys2) |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 2214C](https://codeforces.com/contest/2214/problem/C) |
-
-## Topics
-`*special` `bitmasks`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">C. And?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p><span class="MathJax_Preview" style="color: inherit;"><span class="MJXp-math MJXp-display" id="MJXp-Span-1"><span class="MJXp-mstyle" id="MJXp-Span-2"><span class="MJXp-mrow" id="MJXp-Span-3"><span class="MJXp-mrow" id="MJXp-Span-4"><span class="MJXp-mtext MJXp-mono" id="MJXp-Span-5">RXOEARDMTINHUSERMEDESIANT</span></span><span class="MJXp-mtext" id="MJXp-Span-6"> </span><span class="MJXp-mi" id="MJXp-Span-7">&</span><span class="MJXp-mtext" id="MJXp-Span-8"> </span><span class="MJXp-mn" id="MJXp-Span-9">20260401</span></span></span></span></span>$\LARGE{\texttt{RXOEARDMTINHUSERMEDESIANT}~\&~20260401}$</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases <span class="MathJax_Preview" style="color: inherit;"><span class="MJXp-math" id="MJXp-Span-10"><span class="MJXp-mi MJXp-italic" id="MJXp-Span-11">t</span></span></span>$t$ (<span class="MathJax_Preview" style="color: inherit;"><span class="MJXp-math" id="MJXp-Span-12"><span class="MJXp-mn" id="MJXp-Span-13">1</span><span class="MJXp-mo" id="MJXp-Span-14" style="margin-left: 0.333em; margin-right: 0.333em;">≤</span><span class="MJXp-mi MJXp-italic" id="MJXp-Span-15">t</span><span class="MJXp-mo" id="MJXp-Span-16" style="margin-left: 0.333em; margin-right: 0.333em;">≤</span><span class="MJXp-msubsup" id="MJXp-Span-17"><span class="MJXp-mn" id="MJXp-Span-18" style="margin-right: 0.05em;">10</span><span class="MJXp-mn MJXp-script" id="MJXp-Span-19" style="vertical-align: 0.5em;">5</span></span></span></span>$1 \leq t \leq 10^5$). The description of the test cases follows.</p><p>The only line of each test case contains three integers <span class="MathJax_Preview" style="color: inherit;"><span class="MJXp-math" id="MJXp-Span-20"><span class="MJXp-mi MJXp-italic" id="MJXp-Span-21">a</span></span></span>$a$, <span class="MathJax_Preview" style="color: inherit;"><span class="MJXp-math" id="MJXp-Span-22"><span class="MJXp-mi MJXp-italic" id="MJXp-Span-23">b</span></span></span>$b$, and <span class="MathJax_Preview" style="color: inherit;"><span class="MJXp-math" id="MJXp-Span-24"><span class="MJXp-mi MJXp-italic" id="MJXp-Span-25">c</span></span></span>$c$ (<span class="MathJax_Preview" style="color: inherit;"><span class="MJXp-math" id="MJXp-Span-26"><span class="MJXp-mn" id="MJXp-Span-27">1</span><span class="MJXp-mo" id="MJXp-Span-28" style="margin-left: 0.333em; margin-right: 0.333em;">≤</span><span class="MJXp-mi MJXp-italic" id="MJXp-Span-29">a</span><span class="MJXp-mo" id="MJXp-Span-30" style="margin-left: 0em; margin-right: 0.222em;">,</span><span class="MJXp-mi MJXp-italic" id="MJXp-Span-31">b</span><span class="MJXp-mo" id="MJXp-Span-32" style="margin-left: 0em; margin-right: 0.222em;">,</span><span class="MJXp-mi MJXp-italic" id="MJXp-Span-33">c</span><span class="MJXp-mo" id="MJXp-Span-34" style="margin-left: 0.333em; margin-right: 0.333em;">≤</span><span class="MJXp-mn" id="MJXp-Span-35">1000</span></span></span>$1 \leq a, b, c \leq 1000$). </p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output the answer.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008631932220188601" id="id006773368036470643" class="input-output-copier">Copy</div></div><pre id="id008631932220188601"><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">1 2 6</div><div class="test-example-line test-example-line-even test-example-line-2">2 5 2</div><div class="test-example-line test-example-line-odd test-example-line-3">19 6 4</div><div class="test-example-line test-example-line-even test-example-line-4">167 1 102</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0009162679409635799" id="id008895196361943039" class="input-output-copier">Copy</div></div><pre id="id0009162679409635799"><div class="test-example-line test-example-line-odd test-example-line-1">3</div><div class="test-example-line test-example-line-even test-example-line-2">3</div><div class="test-example-line test-example-line-odd test-example-line-3">11</div><div class="test-example-line test-example-line-even test-example-line-4">90</div></pre></div></div></div>
+/**
+ *    author:  Sanjeev Kumar Gupta
+ *    created: 12.03.2026 20:42:52
+**/
+ 
+#include <bits/stdc++.h>
+ 
+// --- For Debugging ---
+#ifdef LOCAL
+#include "algo/debug.h"
+#else
+#define debug(...) 42
+#endif
+// -------------------
+ 
+using namespace std;
+ 
+#define ll long long int
+#define endl '
+'
+ 
+// --- Type Definitions ---
+typedef vector<ll> vi;
+typedef vector<vi> vvi;
+typedef pair<ll, ll> ii;
+typedef vector<ii> vp;
+ 
+// --- Shorthand Macros ---
+#define all(v) v.begin(), v.end()
+#define srt(v) sort(all(v))
+#define pb push_back
+ 
+// --- I/O Helper Functions ---
+void vin(vi &a, ll n) {
+    a.resize(n);
+    for (ll i = 0; i < n; i++) cin >> a[i];
+}
+ 
+void pin(const vi &a) {
+    for (size_t i = 0; i < a.size(); i++) {
+        cout << a[i] << (i == a.size() - 1 ? "" : " ");
+    }
+    cout << endl;
+}
+ 
+ 
+// --- Main Solve Function ---
+void solve(){
+    vector<int> v(3);
+    for(int j=0;j<3;j++) cin>>v[j];
+    srt(v);
+    cout<<(v[0]^v[1]^v[2]) - v[1]<<endl;
+}
+ 
+// --- Main Function ---
+int32_t main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+  
+    int t=1;
+    cin >> t;
+    while (t--) {
+        solve();
+    }
+ 
+    return 0;
+}
