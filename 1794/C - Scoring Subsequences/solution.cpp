@@ -26,7 +26,7 @@ typedef vector<vi> vvi;
 typedef pair<ll, ll> ii;
 typedef vector<ii> vp;
  
-// --- Shorthand Macros ---
+//--- Shorthand Macros ---
 #define all(v) v.begin(), v.end()
 #define srt(v) sort(all(v))
 #define pb push_back
