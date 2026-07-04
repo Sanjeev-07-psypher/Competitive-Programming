@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 342 | 30 |
+| 343 | 30 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (50)
 - [bitmasks](#bitmasks) (17)
-- [brute force](#brute-force) (60)
+- [brute force](#brute-force) (61)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (57)
 - [data structures](#data-structures) (26)
@@ -29,16 +29,16 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (13)
-- [greedy](#greedy) (149)
+- [greedy](#greedy) (150)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (91)
-- [math](#math) (153)
+- [math](#math) (154)
 - [number theory](#number-theory) (36)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (59)
-- [strings](#strings) (29)
+- [strings](#strings) (30)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (8)
 - [two pointers](#two-pointers) (31)
@@ -164,6 +164,7 @@
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
+| 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
 | 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
@@ -467,6 +468,7 @@
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1579D | [Productive Meeting](https://codeforces.com/contest/1579/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1579/D%20-%20Productive%20Meeting/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1635C | [Differential Sorting](https://codeforces.com/contest/1635/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1635/C%20-%20Differential%20Sorting/solution.cpp) |
@@ -733,6 +735,7 @@
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1612C | [Chat Ban](https://codeforces.com/contest/1612/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1612/C%20-%20Chat%20Ban/solution.cpp) |
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.cpp) |
@@ -982,6 +985,7 @@
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
+| 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
