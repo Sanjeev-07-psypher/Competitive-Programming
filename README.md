@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 344 | 30 |
+| 345 | 30 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [*special](#special) (6)
 - [Uncategorized](#uncategorized) (2)
-- [binary search](#binary-search) (50)
+- [binary search](#binary-search) (51)
 - [bitmasks](#bitmasks) (17)
 - [brute force](#brute-force) (61)
 - [combinatorics](#combinatorics) (4)
-- [constructive algorithms](#constructive-algorithms) (57)
+- [constructive algorithms](#constructive-algorithms) (58)
 - [data structures](#data-structures) (26)
 - [dfs and similar](#dfs-and-similar) (17)
 - [dp](#dp) (21)
@@ -105,6 +105,7 @@
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
+| 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.cpp) |
 | 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
 | 2020B | [Brightness Begins](https://codeforces.com/contest/2020/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2020/B%20-%20Brightness%20Begins/solution.cpp) |
@@ -255,6 +256,7 @@
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1902C | [Insert and Equalize](https://codeforces.com/contest/1902/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1902/C%20-%20Insert%20and%20Equalize/solution.cpp) |
+| 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1991B | [AND Reconstruction](https://codeforces.com/contest/1991/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1991/B%20-%20AND%20Reconstruction/solution.cpp) |
 | 2092C | [Asuna and the Mosquitoes](https://codeforces.com/contest/2092/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2092/C%20-%20Asuna%20and%20the%20Mosquitoes/solution.cpp) |
