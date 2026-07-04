@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 345 | 30 |
+| 346 | 30 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (17)
 - [brute force](#brute-force) (61)
 - [combinatorics](#combinatorics) (4)
-- [constructive algorithms](#constructive-algorithms) (58)
+- [constructive algorithms](#constructive-algorithms) (59)
 - [data structures](#data-structures) (26)
 - [dfs and similar](#dfs-and-similar) (17)
 - [dp](#dp) (21)
@@ -28,10 +28,10 @@
 - [games](#games) (13)
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (1)
-- [graphs](#graphs) (13)
+- [graphs](#graphs) (14)
 - [greedy](#greedy) (151)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (91)
+- [implementation](#implementation) (92)
 - [math](#math) (155)
 - [number theory](#number-theory) (36)
 - [probabilities](#probabilities) (1)
@@ -220,6 +220,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.cpp) |
 | 637A | [Voting for Photos](https://codeforces.com/contest/637/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/637/A%20-%20Voting%20for%20Photos/solution.cpp) |
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
@@ -421,6 +422,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 217A | [Ice Skating](https://codeforces.com/contest/217/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/217/A%20-%20Ice%20Skating/solution.cpp) |
 | 475B | [Strongly Connected City](https://codeforces.com/contest/475/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/475/B%20-%20Strongly%20Connected%20City/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
@@ -601,6 +603,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 66B | [Petya and Countryside](https://codeforces.com/contest/66/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/66/B%20-%20Petya%20and%20Countryside/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
