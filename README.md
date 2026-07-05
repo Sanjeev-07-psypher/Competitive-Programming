@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 348 | 30 |
+| 349 | 30 |
 
 ---
 
@@ -16,11 +16,11 @@
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (53)
 - [bitmasks](#bitmasks) (17)
-- [brute force](#brute-force) (61)
+- [brute force](#brute-force) (62)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (59)
 - [data structures](#data-structures) (26)
-- [dfs and similar](#dfs-and-similar) (17)
+- [dfs and similar](#dfs-and-similar) (18)
 - [dp](#dp) (21)
 - [dsu](#dsu) (6)
 - [expression parsing](#expression-parsing) (1)
@@ -28,7 +28,7 @@
 - [games](#games) (13)
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (1)
-- [graphs](#graphs) (14)
+- [graphs](#graphs) (15)
 - [greedy](#greedy) (153)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (93)
@@ -158,6 +158,7 @@
 | 670D1 | [Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/670/D1%20-%20Magic%20Powder%20-%201/solution.cpp) |
 | 798B | [Mike and strings](https://codeforces.com/contest/798/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/798/B%20-%20Mike%20and%20strings/solution.cpp) |
 | 1011B | [Planning The Expedition](https://codeforces.com/contest/1011/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1011/B%20-%20Planning%20The%20Expedition/solution.cpp) |
+| 1020B | [Badge](https://codeforces.com/contest/1020/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1020/B%20-%20Badge/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 | 1244B | [Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) | 1000 | [Java 21](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1244/B%20-%20Rooms%20and%20Staircases/solution.java) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
@@ -325,6 +326,7 @@
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 862B | [Mahmoud and Ehab and the bipartiteness](https://codeforces.com/contest/862/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/862/B%20-%20Mahmoud%20and%20Ehab%20and%20the%20bipartiteness/solution.cpp) |
 | 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
+| 1020B | [Badge](https://codeforces.com/contest/1020/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1020/B%20-%20Badge/solution.cpp) |
 | 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1669G | [Fall Down](https://codeforces.com/contest/1669/problem/G) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1669/G%20-%20Fall%20Down/solution.cpp) |
@@ -431,6 +433,7 @@
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 862B | [Mahmoud and Ehab and the bipartiteness](https://codeforces.com/contest/862/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/862/B%20-%20Mahmoud%20and%20Ehab%20and%20the%20bipartiteness/solution.cpp) |
 | 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
+| 1020B | [Badge](https://codeforces.com/contest/1020/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1020/B%20-%20Badge/solution.cpp) |
 | 1428B | [Belted Rooms](https://codeforces.com/contest/1428/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1428/B%20-%20Belted%20Rooms/solution.cpp) |
 | 1579D | [Productive Meeting](https://codeforces.com/contest/1579/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1579/D%20-%20Productive%20Meeting/solution.cpp) |
 | 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
