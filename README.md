@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 351 | 30 |
+| 352 | 30 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (62)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (59)
-- [data structures](#data-structures) (26)
+- [data structures](#data-structures) (27)
 - [dfs and similar](#dfs-and-similar) (18)
 - [dp](#dp) (21)
 - [dsu](#dsu) (6)
@@ -29,8 +29,8 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (15)
-- [greedy](#greedy) (153)
-- [hashing](#hashing) (1)
+- [greedy](#greedy) (154)
+- [hashing](#hashing) (2)
 - [implementation](#implementation) (93)
 - [math](#math) (155)
 - [number theory](#number-theory) (36)
@@ -38,7 +38,7 @@
 - [schedules](#schedules) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (60)
-- [strings](#strings) (30)
+- [strings](#strings) (31)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (8)
 - [two pointers](#two-pointers) (33)
@@ -304,6 +304,7 @@
 | 1760E | [Binary Inversions](https://codeforces.com/contest/1760/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1760/E%20-%20Binary%20Inversions/solution.cpp) |
 | 1790D | [Matryoshkas](https://codeforces.com/contest/1790/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1790/D%20-%20Matryoshkas/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
+| 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1860C | [Game on Permutation](https://codeforces.com/contest/1860/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1860/C%20-%20Game%20on%20Permutation/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
@@ -513,6 +514,7 @@
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1794C | [Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1794/C%20-%20Scoring%20Subsequences/solution.cpp) |
+| 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1832C | [Contrast Value](https://codeforces.com/contest/1832/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1832/C%20-%20Contrast%20Value/solution.cpp) |
@@ -606,6 +608,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 
 ### implementation
@@ -1008,6 +1011,7 @@
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
+| 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
