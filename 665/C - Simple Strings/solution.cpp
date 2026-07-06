@@ -31,7 +31,7 @@ typedef vector<ii> vp;
 #define srt(v) sort(all(v))
 #define pb push_back
  
-// --- I/O Helper Functions ---
+//--- I/O Helper Functions ---
 void vin(vi &a, ll n) {
     a.resize(n);
     for (ll i = 0; i < n; i++) cin >> a[i];
