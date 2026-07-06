@@ -60,7 +60,7 @@ ll lcm(ll a, ll b){
    return (a / gcd(a,b)) * b;
 }
  
-// --- Main Solve Function ---
+// -- Main Solve Function ---
 void solve() {
     ll n;
     cin>>n;
