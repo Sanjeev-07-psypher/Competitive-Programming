@@ -76,7 +76,6 @@ void solve(){
         cout<<m0[i]<<" ";
     cout<<endl;
 }
- 
 // --- Main Function ---
 int32_t main() {
     ios_base::sync_with_stdio(false);
