@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 354 | 30 |
+| 355 | 30 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (62)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (59)
-- [data structures](#data-structures) (28)
+- [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (18)
 - [dp](#dp) (22)
 - [dsu](#dsu) (6)
@@ -31,7 +31,7 @@
 - [graphs](#graphs) (15)
 - [greedy](#greedy) (155)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (93)
+- [implementation](#implementation) (94)
 - [math](#math) (155)
 - [number theory](#number-theory) (36)
 - [probabilities](#probabilities) (1)
@@ -289,6 +289,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 18C | [Stripe](https://codeforces.com/contest/18/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/18/C%20-%20Stripe/solution.cpp) |
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.cpp) |
 | 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1237B | [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/1237/B%20-%20Balanced%20Tunnel/solution.cpp) |
@@ -619,6 +620,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
+| 18C | [Stripe](https://codeforces.com/contest/18/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/18/C%20-%20Stripe/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 66B | [Petya and Countryside](https://codeforces.com/contest/66/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/66/B%20-%20Petya%20and%20Countryside/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
