@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 357 | 30 |
+| 358 | 30 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [constructive algorithms](#constructive-algorithms) (59)
 - [data structures](#data-structures) (29)
 - [dfs and similar](#dfs-and-similar) (19)
-- [dp](#dp) (22)
+- [dp](#dp) (23)
 - [dsu](#dsu) (7)
 - [expression parsing](#expression-parsing) (1)
 - [flows](#flows) (1)
@@ -29,7 +29,7 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (15)
-- [greedy](#greedy) (156)
+- [greedy](#greedy) (157)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (94)
 - [math](#math) (155)
@@ -366,6 +366,7 @@
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
 | 2208C | [Stamina and Tasks](https://codeforces.com/contest/2208/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2208/C%20-%20Stamina%20and%20Tasks/solution.cpp) |
+| 2225C | [Red-Black Pairs](https://codeforces.com/contest/2225/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2225/C%20-%20Red-Black%20Pairs/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.cpp) |
@@ -597,6 +598,7 @@
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
+| 2225C | [Red-Black Pairs](https://codeforces.com/contest/2225/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2225/C%20-%20Red-Black%20Pairs/solution.cpp) |
 | 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.cpp) |
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
