@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 371 | 30 |
+| 372 | 30 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (16)
-- [greedy](#greedy) (161)
+- [greedy](#greedy) (162)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (97)
 - [math](#math) (157)
@@ -37,7 +37,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (3)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (65)
+- [sortings](#sortings) (66)
 - [strings](#strings) (31)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (8)
@@ -612,6 +612,7 @@
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
+| 2205C | [Simons and Posting Blogs](https://codeforces.com/contest/2205/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2205/C%20-%20Simons%20and%20Posting%20Blogs/solution.cpp) |
 | 2208C | [Stamina and Tasks](https://codeforces.com/contest/2208/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2208/C%20-%20Stamina%20and%20Tasks/solution.cpp) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.cpp) |
 | 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2209/B%20-%20Array/solution.cpp) |
@@ -1033,6 +1034,7 @@
 | 2193D | [Monster Game](https://codeforces.com/contest/2193/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2193/D%20-%20Monster%20Game/solution.cpp) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2205C | [Simons and Posting Blogs](https://codeforces.com/contest/2205/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2205/C%20-%20Simons%20and%20Posting%20Blogs/solution.cpp) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
