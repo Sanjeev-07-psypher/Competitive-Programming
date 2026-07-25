@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 380 | 30 |
+| 381 | 30 |
 
 ---
 
@@ -31,13 +31,13 @@
 - [graphs](#graphs) (16)
 - [greedy](#greedy) (166)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (98)
+- [implementation](#implementation) (99)
 - [math](#math) (159)
 - [number theory](#number-theory) (36)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (3)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (66)
+- [sortings](#sortings) (67)
 - [strings](#strings) (34)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (8)
@@ -758,6 +758,7 @@
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 | 2230C | [Arrange the Numbers in a Circle](https://codeforces.com/contest/2230/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2230/C%20-%20Arrange%20the%20Numbers%20in%20a%20Circle/solution.cpp) |
+| 2231C | [Chipmunk Theo and Equality](https://codeforces.com/contest/2231/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2231/C%20-%20Chipmunk%20Theo%20and%20Equality/solution.cpp) |
 | 2234C | [Vessels, Heights and Two Versions (Easy Version)](https://codeforces.com/contest/2234/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2234/C%20-%20Vessels%2C%20Heights%20and%20Two%20Versions%20(Easy%20Version)/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 | 2242C | [Unstable Elements](https://codeforces.com/contest/2242/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2242/C%20-%20Unstable%20Elements/solution.cpp) |
@@ -1053,6 +1054,7 @@
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2205C | [Simons and Posting Blogs](https://codeforces.com/contest/2205/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2205/C%20-%20Simons%20and%20Posting%20Blogs/solution.cpp) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
+| 2231C | [Chipmunk Theo and Equality](https://codeforces.com/contest/2231/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2231/C%20-%20Chipmunk%20Theo%20and%20Equality/solution.cpp) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
