@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 387 | 30 |
+| 388 | 30 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (16)
-- [greedy](#greedy) (169)
+- [greedy](#greedy) (170)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (100)
 - [math](#math) (161)
@@ -660,6 +660,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Sanjeev-07-psypher/Competitive-Programming/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.cpp) |
 
 ### hashing
 
